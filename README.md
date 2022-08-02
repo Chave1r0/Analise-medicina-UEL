@@ -1,5 +1,5 @@
 # Analise-medicina-UEL
-Utilizei o SQL para responder perguntas sobre os classificados e convocados em algumas medicinas na universidade estadual de Londrina nos últimos 3 anos;
+Utilizei o SQL para responder perguntas sobre os classificados e convocados em medicina na universidade estadual de Londrina nos últimos 3 anos;
 Este foi meu primeiro "projeto" para tratamento de dados com SQL; Retirei estes dados do site da COPS UEL.
 O código segue logo abaixo:
 
